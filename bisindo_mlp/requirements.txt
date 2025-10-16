@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+tensorflow==2.*
+pyttsx3
+joblib
+matplotlib
